@@ -5,6 +5,13 @@
   <a href="https://www.linkedin.com/in/rwongy/">LinkedIn</a>
 </p>
 
+<h4>About Me</h4>
+<div>
+ <p>🌱 I’m currently learning TypeScript, Jest, Cypress</p>
+ <p>📫 How to reach me: rwrachelwong@gmail.com</p>
+ <p>😄 Pronouns: she/her</p>
+</div>
+
 <br />
 
 Front End
@@ -18,14 +25,7 @@ Databases
 
 Cloud Services
  - AWS, Azure, Mongo Atlas
-    
-<br />   
-
-<div>
-<p>🌱 I’m currently learning TypeScript, Jest, Cypress</p>
-<p>📫 How to reach me: rwrachelwong@gmail.com</p>
-<p>😄 Pronouns: she/her</p>
-</div>
+   
 <!--
 **rachwongrw/rachwongrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
