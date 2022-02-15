@@ -8,7 +8,7 @@
 <br />
 
 Front End
- -React, TypeScript, HTML, CSS 
+ - React, TypeScript, HTML, CSS 
 
 Back End
  - ASP.NET, NodeJS
