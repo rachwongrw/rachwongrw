@@ -22,9 +22,9 @@ Cloud Services
 <br />   
 
 <div>
-- 🌱 I’m currently learning TypeScript, Jest, Cypress
-- 📫 How to reach me: rwrachelwong@gmail.com
-- 😄 Pronouns: she/her
+<p>🌱 I’m currently learning TypeScript, Jest, Cypress</p>
+<p>📫 How to reach me: rwrachelwong@gmail.com</p>
+<p>😄 Pronouns: she/her</p>
 </div>
 <!--
 **rachwongrw/rachwongrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
