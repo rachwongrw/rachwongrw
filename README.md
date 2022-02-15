@@ -21,9 +21,9 @@ Cloud Services
     
 <br />   
 
-- 🌱 I’m currently learning TypeScript, Jest, Cypress
-- 📫 How to reach me: rwrachelwong@gmail.com
-- 😄 Pronouns: she/her
+🌱 I’m currently learning TypeScript, Jest, Cypress
+📫 How to reach me: rwrachelwong@gmail.com
+😄 Pronouns: she/her
 
 <!--
 **rachwongrw/rachwongrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
