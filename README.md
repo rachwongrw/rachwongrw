@@ -15,13 +15,13 @@
 <br />
 
 Front End
- - React, TypeScript, HTML, CSS 
+ - React, TypeScript, HTML, CSS/SASS/LESS, Material UI, Bootstrap
 
 Back End
- - ASP.NET, NodeJS
+ - ASP.NET, .NET Core, NodeJS
 
 Databases
- - MongoDB, Mongoose, MySQL, MongoDB
+ - SQL Server, MongoDB
 
 Cloud Services
  - AWS, Azure, Mongo Atlas
