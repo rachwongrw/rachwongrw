@@ -19,7 +19,8 @@ Databases
 Cloud Services
  - AWS, Azure, Mongo Atlas
     
-    
+<br />   
+
 - 🌱 I’m currently learning TypeScript, Jest, Cypress
 - 📫 How to reach me: rwrachelwong@gmail.com
 - 😄 Pronouns: she/her
