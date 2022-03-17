@@ -7,7 +7,7 @@
 
 <h4>About Me</h4>
 <div>
- <p>🌱 I’m currently learning TypeScript, Jest, Cypress</p>
+ <p>🌱 I’m currently learning TypeScript, Jest, GraphQL</p>
  <p>📫 How to reach me: rwrachelwong@gmail.com</p>
  <p>😄 Pronouns: she/her</p>
 </div>
