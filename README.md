@@ -7,7 +7,7 @@
 
 <h4>About Me</h4>
 <div>
- <p>🌱 I’m currently learning TypeScript, Jest, React Testing Library</p>
+ <p>🌱 I’m currently learning TypeScript, Jest, React Testing Library, GraphQL</p>
  <p>📫 How to reach me: rwrachelwong@gmail.com</p>
  <p>😄 Pronouns: she/her</p>
 </div>
@@ -18,13 +18,16 @@ Front End
  - React, TypeScript, HTML, CSS/SASS/LESS, Material UI, Bootstrap
 
 Back End
- - ASP.NET, .NET Core, NodeJS
+ - NodeJs, .NET Core
 
 Databases
  - SQL Server, MongoDB
 
 Cloud Services
  - AWS, Azure, Mongo Atlas
+ 
+Other
+ - GraphQL, Jest, Figma
    
 <!--
 **rachwongrw/rachwongrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
