@@ -18,7 +18,7 @@ Front End
  - React, TypeScript, HTML, CSS/SASS/LESS, Material UI, Bootstrap
 
 Back End
- - NodeJs, .NET Core
+ - Golang, NodeJs, .NET Core
 
 Databases
  - SQL Server, MongoDB
