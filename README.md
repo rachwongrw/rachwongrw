@@ -16,21 +16,17 @@
 
 Front End
  - React, TypeScript, Redux, HTML, CSS/SASS/LESS, Material UI, Bootstrap
-
 Back End
  - Golang, gRPC, GraphQL, NodeJs, .NET Core
-
 DevOps & Tools
  - PostgreSQL, SQL Server, MongoDB
-
 Cloud Services
  - Kubernetes (KubeDash, pod management), AWS (S3, EC2), Docker, GitHub Actions, Jest
- 
 Other
  - Datadog (Logging/Tracing), Sentry, , Jest, Figma
+<br />
 
-
-My most recent experience includes: 
+<h5>My most recent experience</h5>
 - Engineered backend microservices using **Go (Golang)** and **gRPC**, expanding the internal API surface area and enhancing system modularity.
 - Led end-to-end feature development cycles, including **PostgreSQL** schema design, task delegation to other developers, and code reviews.
 - Delivered numerous Quality of Life (QoL) features for the product, directly improving user workflows and reducing manual support tickets by an estimated 10%.
