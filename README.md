@@ -27,11 +27,11 @@
 
 - Engineered backend microservices using Go (Golang) and gRPC, expanding the internal API surface area and enhancing system modularity.
 - Led end-to-end feature development cycles, including PostgreSQL schema design, task delegation to other developers, and code reviews.
-- Championed frontend architectural health by taking ownership of the migration to React Router v6 and proactively refactoring legacy React class components to functional components.
-- Ensured frontend system scalability by contributing reusable components to Storybook and optimizing render performance using React Context and hooks.
-- Managed and executed features deployments via KubeDash (Kubernetes deployments), enforced code quality using a custom GitHub Action with sqlfluff, and debugged issues using Datadog/Sentry.
-- Developed and deployed critical 3rd-party integrations using API keys and secure authentication flows.
-- Onboard junior developer and contributed to engineering culture by presenting on different topics such as Github Copilot vs Cursor, and AI sustainability
+- Championed technical debt resolution by taking ownership of the React Router v6 migration and proactively refactoring legacy React class components to functional components, preparing the platform for modern code splitting and future feature velocity.
+- Ensured frontend system scalability by contributing reusable components to Storybook and optimizing render performance using React Context and hooks, reducing unnecessary component re-renders and preventing performance degradation in complex, data-heavy UIs
+- Managed and executed feature deployments via KubeDash (Kubernetes deployments) and reducing MTTR (Mean Time to Resolution) using Datadog/Sentry for log analysis during incidents.
+- Improve code quality standards for database changes by creating a custom GitHub Action with sqlfluff, ensuring early detection of schema issues and mitigating the risk of production rollback failures
+- Onboard junior developer and contributed to engineering culture by presenting on different technical topics (e.g., Github Copilot vs Cursor, AI sustainability).
 
 
 <!--
